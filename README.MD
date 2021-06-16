@@ -5,8 +5,7 @@
 2. Docker Host URI?: unix:///var/run/docker.sock
 3. Enable checkbox
 
-**important**
-Jenkins and Docker installed same Machine
+
 
 *Add Docker Agent Template*
 

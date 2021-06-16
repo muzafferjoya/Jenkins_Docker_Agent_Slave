@@ -7,3 +7,11 @@
 
 **important**
 Jenkins and Docker installed same Machine
+
+*Add Docker Agent Template*
+
+1. Label: dockeragent
+2. Name: DockerAgent
+3. DockerImage: jenkins/inbound-agent
+
+**connect method** is important if you are choosing *Attach Docker Container* it means docker and jenkins install same machine

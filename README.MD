@@ -4,7 +4,7 @@
 1. add Name: Docker
 2. Docker Host URI?: unix:///var/run/docker.sock
 3. Enable checkbox
-
+4. Test Connection
 
 
 *Add Docker Agent Template*
